@@ -1,1 +1,1 @@
--
+This is an (Almost) complete implementation of the Rabbit cipher based on [https://www.ecrypt.eu.org/stream/p3ciphers/rabbit/rabbit_p3.pdf](https://www.ecrypt.eu.org/stream/p3ciphers/rabbit/rabbit_p3.pdf).
